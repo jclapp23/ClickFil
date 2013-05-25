@@ -13,7 +13,7 @@
                 <img src="images/logo.png" title="Clickfil Logo" alt="Clickfil Logo Image"/>
                <div id="arrow"></div>
             </header>
-            <div id=main>
+            <div id="main">
                 <h1>Spending too much on <span>heating oil</span> is so 2009.</h1>
                   <div id="become-member">    
                     <img src="images/card.png" class="float" title="Stop and Shop Gift Card" alt="Stop and Shop Gift Card Image" />
